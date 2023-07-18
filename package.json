@@ -14,6 +14,9 @@
   "keywords": [
     "coderhouse"
   ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "author": "IDD",
   "license": "ISC",
   "bugs": {
