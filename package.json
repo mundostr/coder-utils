@@ -1,5 +1,5 @@
 {
-  "name": "coder-utils",
+  "name": "@coder/coder-utils",
   "version": "1.0.0",
   "description": "Utilidades Coderhouse Comisión 51220",
   "main": "index.js",
