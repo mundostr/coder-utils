@@ -1,0 +1,23 @@
+{
+  "name": "coder-utils",
+  "version": "1.0.0",
+  "description": "Utilidades Coderhouse Comisión 51220",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mundostr/coder-utils.git"
+  },
+  "keywords": [
+    "coderhouse"
+  ],
+  "author": "IDD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mundostr/coder-utils/issues"
+  },
+  "homepage": "https://github.com/mundostr/coder-utils#readme"
+}
